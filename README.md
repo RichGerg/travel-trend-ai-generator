@@ -30,11 +30,10 @@ It's a hands-off way to keep your travel blog or newsletter fresh with content t
 ## 🗂️ File Structure
 
 travel-trend-ai-generator/
-│
-├── init.py # Main function logic
-├── function.json # Azure Function trigger config
-├── requirements.txt # Python dependencies
-└── .funcignore # Exclude local files from deployment
+   - init.py # Main function logic
+   - function.json # Azure Function trigger config
+   - requirements.txt # Python dependencies
+   - funcignore # Exclude local files from deployment
 
 ---
 
