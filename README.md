@@ -13,6 +13,8 @@ This project automates travel content creation by:
 
 It's a hands-off way to keep your travel blog or newsletter fresh with content that's timely and relevant.
 
+![Mock Form](https://www.phishy.cloud/assets/img/proj/img-mock-travel.jpg)
+
 ---
 
 ## 🧰 Tech Stack
@@ -34,6 +36,8 @@ travel-trend-ai-generator/
    - function.json # Azure Function trigger config
    - requirements.txt # Python dependencies
    - funcignore # Exclude local files from deployment
+
+![Mock Form](https://www.phishy.cloud/assets/img/proj/img-travel2.jpg)
 
 ---
 
@@ -62,7 +66,7 @@ travel-trend-ai-generator/
    Intro: Looking for travel deals? Here are 5 trending getaways you don't want to miss...
    ...
 
-![Mock Form](https://www.phishy.cloud/assets/img/proj/img-form-1.jpg)
+![Mock Form](https://www.phishy.cloud/assets/img/proj/img-travel1.jpg)
 
 ---
 
